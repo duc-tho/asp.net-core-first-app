@@ -1,0 +1,38 @@
+{
+     "Users": [
+          {
+               "id": 1,
+               "username": "ab",
+               "password": "ethreyj6er4yj6er4yj8ryjikbh4wasdfg41sdfj",
+               "email": "ab@gmail.com"
+          },
+          {
+               "id": 2,
+               "username": "cd",
+               "password": "ethreyj6er4yj6er4yj8rf6a4sd156f1as54df16asg64qwer6h46qe1rf6g1sayXc1vjikbh4wasdfg41sdfj",
+               "email": "cd@gmail.com"
+          }
+     ],
+     "Candidates": [
+          {
+               "id": 1,
+               "userId": 1,
+               "position": "dev",
+               "firstName": "A",
+               "lastName": "B",
+               "age": 20,
+               "gender": "M",
+               "phone": "02123456798"
+          },
+          {
+               "id": 2,
+               "userId": 2,
+               "position": "sale",
+               "firstName": "C",
+               "lastName": "D",
+               "age": 20,
+               "gender": "F",
+               "phone": "02123456798"
+          }
+     ]
+}

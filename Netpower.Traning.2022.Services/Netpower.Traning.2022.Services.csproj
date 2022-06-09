@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Netpower.Traning._2022.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Netpower.Traning.2022.Core\Netpower.Traning.2022.Core.csproj" />
+    <ProjectReference Include="..\Netpower.Traning.2022.DTOs\Netpower.Traning.2022.DTOs.csproj" />
+    <ProjectReference Include="..\Netpower.Traning.2022.Repositories\Netpower.Traning.2022.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
